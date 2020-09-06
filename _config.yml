@@ -21,12 +21,12 @@ seo:
   meta_og_description: "Consultancy services in various areas of the datacenter. Strong expertise in virtualisation with VMware technologies and PowerCLI scripting."
 
 collections:
-  #services:
-  #  output: true
-  #  permalink: /services/:path/
-  #team:
-  #  output: true
-  #  permalink: /team/:path/
+  services:
+    output: true
+    permalink: /services/:path/
+  team:
+    output: true
+    permalink: /team/:path/
 
 defaults:
   - scope:
