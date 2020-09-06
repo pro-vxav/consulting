@@ -1,4 +1,4 @@
-baseurl: 'http://www.vxav.fr/consulting/'
+baseurl: '/consulting'
 exclude: ['README.md']
 permalink: pretty
 title: 'vXav consultancy services'
