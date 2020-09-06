@@ -1,11 +1,10 @@
 ---
 title: Services
 layout: services
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/illustrations/services.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
-
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+# Infrastructure experts at your service
+Our experience in many domains of cloud and on-premise infrastructure will help you solve current and future technical challenges. Let us guide you from the qualification of your needs to their implementation.
