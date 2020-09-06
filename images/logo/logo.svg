@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,7 +45,7 @@
      id="namedview5125"
      showgrid="false"
      inkscape:zoom="3.0312688"
-     inkscape:cx="170.17064"
+     inkscape:cx="113.92357"
      inkscape:cy="30.52039"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -269,5 +269,5 @@
        id="tspan5676"
        x="65.497856"
        y="44.602383"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.41411209px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ec3802;fill-opacity:1;stroke-width:0.63536173px">CONSULTANCY</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.41411209px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ec3802;fill-opacity:1;stroke-width:0.63536173px">CONSULTING</tspan></text>
 </svg>
