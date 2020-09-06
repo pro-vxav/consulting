@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: 'Consultancy'
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
