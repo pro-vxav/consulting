@@ -12,10 +12,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg6712"
-   width="1235"
-   height="1235"
-   viewBox="0 0 1235 1235"
-   sodipodi:docname="lin.svg"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   sodipodi:docname="twitter.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata6718">
@@ -44,7 +44,7 @@
      inkscape:window-height="1017"
      id="namedview6714"
      showgrid="false"
-     inkscape:zoom="0.19109312"
+     inkscape:zoom="0.68663968"
      inkscape:cx="617.5"
      inkscape:cy="617.5"
      inkscape:window-x="-8"
@@ -53,13 +53,13 @@
      inkscape:current-layer="svg6712" />
   <image
      sodipodi:absref="C:\Users\xavier\Downloads\pngaaa.com-798569.png"
-     xlink:href="pngaaa.com-798569.png"
-     y="0"
-     x="0"
+     xlink:href="file:///C:/Users/xavier/Downloads/pngaaa.com-798569.png"
+     y="1.4504751"
+     x="0.0058956505"
      id="image6720"
      preserveAspectRatio="none"
-     height="1235"
-     width="1235" />
+     height="300"
+     width="300" />
   <path
      style="fill:#000000"
      d=""
