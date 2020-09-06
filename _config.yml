@@ -22,10 +22,10 @@ seo:
 
 collections:
   services:
-    output: true
+    output: false
     permalink: /services/:path/
   team:
-    output: true
+    output: false
     permalink: /team/:path/
 
 defaults:
