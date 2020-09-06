@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Free Quote",
+    "description": "Free quote following first contact and project qualification.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Certified Consultants",
+    "description": "Professional certifications ensure a high quality of execution.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "EU mobility",
+    "description": "Possibility to work both in french and english, on site and remotely.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
