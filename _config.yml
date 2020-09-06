@@ -1,4 +1,4 @@
-baseurl: 'consultancy'
+baseurl: 'consulting'
 exclude: ['README.md']
 permalink: pretty
 title: 'vXav consultancy services'
