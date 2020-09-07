@@ -1,7 +1,7 @@
 main:
-  - name: "Services"
-    url: "/services/"
-    weight: 2
+  #- name: "Services"
+  #  url: "/services/"
+  #  weight: 2
   - name: "Blog"
     url: "http://www.vxav.fr/"
     weight: 3
