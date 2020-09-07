@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # vXav - Expert IT consultants
 
-Consulting services in various areas of the datacenter (cloud and on-premise). Strong expertise in infrastructure and VMware technologies. Available for contract and freelance work, get in touch with us now.
+Consulting services in various areas of the datacenter (cloud and on-premise). Strong expertise in infrastructure and VMware technologies. Located in Aix-en-Provence, available for contract and freelance work, get in touch with us now.
