@@ -6,7 +6,7 @@ bodyClass: page-contact
 
 Get in touch with the details above to let us know how we can help or fill out the form the below and we will get back to you.
 
-<img src="/Images/map-aix.jpg">
+<img src="/consulting/images/map-aix.jpg">
 
 <form action="https://formspree.io/xavier.avrillier@gmail.com" method="POST">
 <center>
