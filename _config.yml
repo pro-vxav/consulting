@@ -1,7 +1,7 @@
 baseurl: '/'
 exclude: ['README.md']
 permalink: pretty
-title: 'vXav consultancy services'
+title: 'vXav - Consultance IT'
 
 google_analytics_id: null
 homepage:
@@ -14,11 +14,11 @@ footer:
   copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
 seo:
-  meta_og_title: "vXav consulting services"
+  meta_og_title: "vXav Consultance IT"
   meta_og_type: "website"
   meta_og_url: "https://jekyll-serif-theme.netlify.app"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "consulting services in various areas of the datacenter. Strong expertise in virtualisation with VMware technologies and PowerCLI scripting."
+  meta_og_description: "Services de consultance en infrastructure dans les bouches du rhones avec spécialisation VMware. Forte expertise en virtualisation, technologies VMware et PowerCLI scripting."
 
 collections:
   services:
