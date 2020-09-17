@@ -4,7 +4,7 @@ layout: contact
 bodyClass: page-contact
 ---
 
-Parlez nousde votre projet avec le formulaire ci-dessous et nous vous re-contacterons rapidement. 
+Parlez nous de votre projet avec le formulaire ci-dessous et nous vous re-contacterons rapidement. 
 
 <img src="/images/map-aix.jpg">
 
